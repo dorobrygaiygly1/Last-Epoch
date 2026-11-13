@@ -234,4 +234,4 @@ Last Epoch is offered as a complete free version with all features and updates i
 Dive into the adventure and download Last Epoch for Windows today!
 
 ---
-**Last updated:** 2026-11-13 04:42:00 UTC
+**Last updated:** 2026-11-13 12:46:54 UTC
